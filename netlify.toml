@@ -1,7 +1,4 @@
 [[redirects]]
 from = "/*"
 to = "page/index.html"
-to = "page/css/style.css
-to = "page/js/script.js
-to = "page/img/bg.jpg"
 status = 200
